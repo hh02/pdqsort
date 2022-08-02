@@ -20,7 +20,7 @@ BenchmarkSortSorted-8   	       2	 810051850 ns/op	      24 B/op	       1 allocs
 
 约24倍
 
-## 2 倒序
+## 2 逆序
 
 数组长度：1e7
 
